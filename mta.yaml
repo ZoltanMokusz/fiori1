@@ -1,0 +1,9 @@
+ID: fiori1
+_schema-version: '2.0'
+description: SAP UI5 learning
+version: 0.0.1
+
+modules:
+ - name: ui5_module
+   type: html5
+   path: ui5_module

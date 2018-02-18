@@ -1,0 +1,13 @@
+<mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="mokuszui5_module.controller.View1" displayBlock="true">
+	<App>
+		<pages>
+			<Page title="{i18n>title}">
+				<content>
+					<Button id="idButton" icon="sap-icon://building" text="ClickMe!" visible="true" tooltip="Click please" press="onPress">
+					</Button>
+					<DatePicker width="40%" id="__picker0"/>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
